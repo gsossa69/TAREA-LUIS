@@ -1,0 +1,19 @@
+.usuario{
+    max-width: 100%;
+    width: 100px;
+    margin-left: 40px;
+}
+.inicio{
+    justify-content: center;
+    width: 300px;
+flex-wrap: nowrap;
+    margin-top: 35vh;
+margin-left: 55vh;
+
+}
+.boton{
+    margin-left: 5.5vh;
+}
+.nose{
+    text-decoration: none;
+}
